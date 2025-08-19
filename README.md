@@ -8,5 +8,4 @@ This project is a Flappy Bird clone built using JavaFX. The game recreates the c
 -Game over screen with restart functionality.
 
 ## Example
-https://github.com/user-attachments/assets/bda2af96-00e1-4a08-9705-438d44c934c6
-
+https://github.com/user-attachments/assets/91807b3b-cb2c-403e-b385-0a7754e1c5d3
